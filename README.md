@@ -1,6 +1,6 @@
 # Unity Math for Game Developers
 
-Welcome to the "unity-math-for-game-devs" repository! This collection of examples demonstrates various math concepts used in game development. The content in this repository is based on tutorials and instructions from [Acegikmo's YouTube Channel](https://www.youtube.com/@Acegikmo/videos).
+Welcome to the "unity-math-for-game-devs" repository! This collection of examples demonstrates various math concepts used in game development. The content in this repository is based on tutorials and instructions from [Acegikmo's YouTube Channel](https://www.youtube.com/@Acegikmo/videos) and created by [Davit Badalyan](https://github.com/davit-badalyan).
 
 ## Table of Contents
 
