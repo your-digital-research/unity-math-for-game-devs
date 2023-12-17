@@ -17,9 +17,9 @@ This repository serves as a practical guide to understanding and implementing es
 
 Explore a variety of math concepts through the following examples.
 
-Feel free to delve into each project folder for detailed information.
+Feel free to delve into each example folder for detailed information.
 
-**Note:** These projects were developed using Unity 2021 LTS.
+**Note:** These examples were developed using Unity 2021 LTS.
 
 ## <a name="getting-started"></a> Getting Started
 
@@ -28,11 +28,11 @@ To dive into the examples and learn more about the mathematical concepts used in
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-digital-research/unity-math-for-game-devs.git
-2. **Navigate to the Desired Project**
+2. **Navigate to the Desired Example**
 3. **Open in Unity**
-   - Launch the Unity editor and open the project folder.
+   - Launch the Unity editor and open the example folder.
    - Explore and modify the examples as needed.
-4. **Run the Project**
+4. **Run the Example**
    - Test and run the example within the Unity editor.
 
 ## <a name="license"></a> License
