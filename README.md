@@ -19,7 +19,7 @@ Explore a variety of math concepts through the following examples.
 
 Feel free to delve into each example folder for detailed information.
 
-**Note:** These examples were developed using Unity 2021 LTS.
+**Note:** These examples were developed using Unity 2020 LTS.
 
 ## <a name="getting-started"></a> Getting Started
 
