@@ -7,6 +7,7 @@ Welcome to the "unity-math-for-game-devs" repository! This collection of example
 - [About](#about)
 - [Examples](#examples)
 - [Getting Started](#getting-started)
+- [Preview](#preview)
 - [License](#license)
 
 ## <a name="about"></a> About
@@ -34,6 +35,24 @@ To dive into the examples and learn more about the mathematical concepts used in
    - Explore and modify the examples as needed.
 4. **Run the Example**
    - Test and run the example within the Unity editor.
+
+## <a name="preview"></a> Preview
+
+<p align="center">
+  <img src="Assets/GIF/preview-1.gif" alt="Preview 1" title="Preview 1" width="800">
+</p>
+
+<p align="center">
+  <img src="Assets/GIF/preview-2.gif" alt="Preview 2" title="Preview 2" width="800">
+</p>
+
+<p align="center">
+  <img src="Assets/GIF/preview-3.gif" alt="Preview 3" title="Preview 3" width="800">
+</p>
+
+<p align="center">
+  <img src="Assets/GIF/preview-4.gif" alt="Preview 4" title="Preview 4" width="800">
+</p>
 
 ## <a name="license"></a> License
 
